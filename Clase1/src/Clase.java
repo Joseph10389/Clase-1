@@ -20,7 +20,7 @@ public class Clase
 		//métodos	
 	public static void main(String[] args) 
 	{
-		
+		PedirNombreVideojuego();
 
 	}
 		
@@ -37,17 +37,17 @@ public class Clase
 			nombreVideojuego = lectorConsola.next();
 			
 		}
-		
+		//Tarea:
 		private static void PedirInfoTabla() 
 		{
 			
 		}
-		
+		//tarea
 		private static void CalcularProm() 
 		{
 			
 		}
-		
+		//tarea:
 		private static void MostrarProm() 
 		{
 			
