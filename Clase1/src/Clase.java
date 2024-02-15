@@ -26,7 +26,12 @@ public class Clase
 		
 		public static void LeerDatos() 
 		{
-			
+			for(int i=0 ; i < NUM_JUGADORES ; i++  )
+			{
+				//recorrer areglo:
+				
+				//leer cada nombre
+			}
 		}	
 		
 		private static void PedirNombreVideojuego() 
@@ -37,7 +42,7 @@ public class Clase
 			nombreVideojuego = lectorConsola.next();
 			
 		}
-		//Tarea:
+		//tarea
 		private static void PedirInfoTabla() 
 		{
 			
@@ -47,7 +52,7 @@ public class Clase
 		{
 			
 		}
-		//tarea:
+		//tarea
 		private static void MostrarProm() 
 		{
 			
